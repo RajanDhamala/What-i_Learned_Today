@@ -6,7 +6,7 @@ date:2024/7/21
 exam will begin from tomorrow so was unable to learn new comcepts of react..that was all today.
 
 date:2024/7/22
-today was math exam and it went decent unable to learn new concept due to exams
+today was math exam and it went decent unable to learn new concept due to exams.
 
 date:2024/07/23
-today was java exam and it went pretty average thus was unable to learn new concepts of react 
+today was java exam and it went pretty average thus was unable to learn new concepts of react.
