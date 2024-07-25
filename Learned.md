@@ -13,3 +13,6 @@ today was java exam and it went pretty average thus was unable to learn new conc
 
 date:2024/07/24
 yesterday was operting system exam thus unable to learn new concepts
+
+date:2024/07/25 
+today was internet fundamental and application exam thus unable to learn new concepts
