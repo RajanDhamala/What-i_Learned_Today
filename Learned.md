@@ -10,3 +10,6 @@ today was math exam and it went decent unable to learn new concept due to exams.
 
 date:2024/07/23
 today was java exam and it went pretty average thus was unable to learn new concepts of react.
+
+date:2024/07/24
+yesterday was operting system exam thus unable to learn new concepts
