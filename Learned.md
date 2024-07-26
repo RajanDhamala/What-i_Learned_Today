@@ -16,3 +16,6 @@ yesterday was operting system exam thus unable to learn new concepts
 
 date:2024/07/25 
 today was internet fundamental and application exam thus unable to learn new concepts
+
+date:2024/07/26
+today was advanced comp network exam starting to learn reduc
