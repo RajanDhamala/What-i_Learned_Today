@@ -18,4 +18,7 @@ date:2024/07/25
 today was internet fundamental and application exam thus unable to learn new concepts
 
 date:2024/07/26
-today was advanced comp network exam starting to learn reduc
+today was advanced comp network exam starting to learn redux
+
+date:20224/07/26
+today i learned more about componnets and get a clarity on few topics
