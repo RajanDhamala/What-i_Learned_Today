@@ -24,4 +24,4 @@ date:2024/07/27
 today i learned more about componnets and get a clarity on few topics
 
 date:2024/07/28 
-today i created component of products like of daraz and resued it multiple time passing different props.passing prop from one component to another and from that to target component which is also known as props chain.
+today i created component of products like of daraz and reused it multiple time passing different props. Passing props from one component to another and from that to actual target component which is also known as props chain.
