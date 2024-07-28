@@ -20,5 +20,8 @@ today was internet fundamental and application exam thus unable to learn new con
 date:2024/07/26
 today was advanced comp network exam starting to learn redux
 
-date:20224/07/26
+date:2024/07/27
 today i learned more about componnets and get a clarity on few topics
+
+date:2024/07/28 
+today i created component of products like of daraz and resued it multiple time passing different props.passing prop from one component to another and from that to target component which is also known as props chain.
