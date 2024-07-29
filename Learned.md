@@ -25,3 +25,6 @@ today i learned more about componnets and get a clarity on few topics
 
 date:2024/07/28 
 today i created component of products like of daraz and reused it multiple time passing different props. Passing props from one component to another and from that to actual target component which is also known as props chain.
+
+date:2024/07/29
+today i learned about making much resposive website using tailwind got more info about diffrernt breakpoints and made repsosite site for all screen size using yesterday component in react also learned more about grid. Using Conditional checking in jsx and to handle the varibales when prompts are not passed.
