@@ -1,9 +1,9 @@
 date:2024/7/20
 learned about react (route routes and browserrouter) through which url can be updated along with elements also learned about Link 
-      still some doubts and doesn't have full clarity over it hope to mastaer it lets keep grinding..
+still some doubts and doesn't have full clarity over it hope to master it lets keep grinding..
       
 date:2024/7/21
-exam will begin from tomorrow so was unable to learn new comcepts of react..that was all today.
+exam will begin from tomorrow so was unable to learn new comcepts of react..that was all for today.
 
 date:2024/7/22
 today was math exam and it went decent unable to learn new concept due to exams.
@@ -28,3 +28,6 @@ today i created component of products like of daraz and reused it multiple time 
 
 date:2024/07/29
 today i learned about making much resposive website using tailwind got more info about diffrernt breakpoints and made repsosite site for all screen size using yesterday component in react also learned more about grid. Using Conditional checking in jsx and to handle the varibales when prompts are not passed.
+
+date:2024/07/30 
+today i learned about git and it commands for pushing code into remote repo like of github and was able to learn few idea of custom hook in react js
