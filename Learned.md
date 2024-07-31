@@ -31,3 +31,7 @@ today i learned about making much resposive website using tailwind got more info
 
 date:2024/07/30 
 today i learned about git and it commands for pushing code into remote repo like of github and was able to learn few idea of custom hook in react js
+
+date:2024/07/31
+today i created a ui using react where user types city name and using api data is fetched from weather and data like temp,humidity,message is reflected in screen learned a lot about tailwind also good experience..
+
