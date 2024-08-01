@@ -35,3 +35,6 @@ today i learned about git and it commands for pushing code into remote repo like
 date:2024/07/31
 today i created a ui using react where user types city name and using api data is fetched from weather and data like temp,humidity,message is reflected in screen learned a lot about tailwind also good experience..
 
+date:2024/08/01 
+today it was fanstastic day as i created weather app to forecast weather where  6 days weather can be forcasted through Weatherapi and created responsive design in single day and tried to even dely it on vercel but was not working as expected due to some issues .also learned and used more about different hooks like UseEffect ,UseCallback
+
