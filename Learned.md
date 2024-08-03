@@ -38,5 +38,8 @@ today i created a ui using react where user types city name and using api data i
 date:2024/08/01 
 today it was fanstastic day as i created weather app to forecast weather where  6 days weather can be forcasted through Weatherapi and created responsive design in single day and tried to even dely it on vercel but was not working as expected due to some issues .also learned and used more about different hooks like UseEffect ,UseCallback
 
-date:2024/08/01
+date:2024/08/02
 Today, I experimented with calling the chess.com API to fetch user information such as rating, title, name, user ID, followers, chess.com profile link, and profile image. Integrating country information from another API into the UI posed challenges due to delays in state updates, affecting the project's functionality. I also deepened my understanding of Tailwind CSS, exploring classes like mx-auto, container, grid-start, and grid-end. It was a valuable learning experience overall.
+
+date:2024/08/03
+today i learned pulling and pushing code in the new and pre existing repos gradually learning commands and techniques of git also also learned about the techniques for making website responsive got some issue in my weather app tried to ressolve it.Problem of the day the State values updated using useState are not updated instantly leading to problem while executing javaScript and thus searching to way to handle it .
