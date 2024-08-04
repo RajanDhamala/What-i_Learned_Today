@@ -43,3 +43,6 @@ Today, I experimented with calling the chess.com API to fetch user information s
 
 date:2024/08/03
 today i learned pulling and pushing code in the new and pre existing repos gradually learning commands and techniques of git also also learned about the techniques for making website responsive got some issue in my weather app tried to ressolve it.Problem of the day the State values updated using useState are not updated instantly leading to problem while executing javaScript and thus searching to way to handle it .
+
+date:20024/08/04
+Today, I learned about Flow Byte and made changes to my chess app, including taking date input from the user and fetching games played in that month using an API. I'm still facing issues with the state not updating properly and am working on solving this problem.
