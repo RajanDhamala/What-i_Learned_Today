@@ -46,3 +46,7 @@ today i learned pulling and pushing code in the new and pre existing repos gradu
 
 date:20024/08/04
 Today, I learned about Flow Byte and made changes to my chess app, including taking date input from the user and fetching games played in that month using an API. I'm still facing issues with the state not updating properly and am working on solving this problem.
+
+
+date:2024/08/04 
+today I try to implement pre made components from flowbyte in my react project but was usucessful and I made changes in updating location in weather app as well as changes in my chess repo and did lighthouse test for seo performance best practice etc and it went pretty average.
