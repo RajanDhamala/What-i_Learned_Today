@@ -48,5 +48,8 @@ date:20024/08/04
 Today, I learned about Flow Byte and made changes to my chess app, including taking date input from the user and fetching games played in that month using an API. I'm still facing issues with the state not updating properly and am working on solving this problem.
 
 
-date:2024/08/04 
+date:2024/08/05 
 today I try to implement pre made components from flowbyte in my react project but was usucessful and I made changes in updating location in weather app as well as changes in my chess repo and did lighthouse test for seo performance best practice etc and it went pretty average.
+
+date:2024/08/05 
+toady i made updates in chess app the player rating,piece color,username,profile link will be passed to the re usable components which will update the ui and i learned about filtering it with the dates of the game played so now we can search and get game by exact date also and was quite frustrated with the problems in react also was unable to use fowbyte with react and faces isses with react router also pretty bad day as of learning react today. 
