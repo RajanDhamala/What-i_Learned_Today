@@ -54,5 +54,8 @@ today I try to implement pre made components from flowbyte in my react project b
 date:2024/08/06 
 toady i made updates in chess app the player rating,piece color,username,profile link will be passed to the re usable components which will update the ui and i learned about filtering it with the dates of the game played so now we can search and get game by exact date also and was quite frustrated with the problems in react also was unable to use fowbyte with react and faces isses with react router also pretty bad day as of learning react today. 
 
-date:20204/08/07
-today i played chess for more than 3 hrs and uas unlable to learn more conecpts of react buut i used my skill to fetch user ingo game date time rating and gamelink using map to loop through while arry and slect the requred game soon may be tomorrow i will make io for this below avg day not learned new strong soncepts 
+date:2024/08/07
+today i played chess for more than 3 hrs and was unable to learn more conecpts of react buut i used my skill to fetch user info, game date, time, rating and gamelink using map to loop through while arry and select the requried game soon may be tomorrow i will make it today was below avg day as the learning and devloper prespective not able learned new strong soncepts 
+
+date:2024/08/08
+today i fixed the locataion not updating bug in my weather app One problem solve all right.i made the quite few devlopment and changes in my chess app i made comps where rating player name game format can be passed thus magin it resuable the api will respond with the all the games played by user in one month and then data like rating player name game format are passed to props and required by using map .Still a lot to learn just a beginning
