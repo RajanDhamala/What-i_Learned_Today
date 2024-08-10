@@ -61,4 +61,7 @@ date:2024/08/08
 today i fixed the locataion not updating bug in my weather app One problem solve all right.i made the quite few devlopment and changes in my chess app i made comps where rating player name game format can be passed thus magin it resuable the api will respond with the all the games played by user in one month and then data like rating player name game format are passed to props and required by using map .Still a lot to learn just a beginning
 
 date:2024/08/09
-today i learned more deeply about react router and created small site with header body and foother and when login logs hom about is clicked it chnages the inside component and renders the componnet accourding to it header and footer do not change nor loads at that time power of react that was all for today..
+today i learned more deeply about react router and created small site with header body and foother and when login logs hom about is clicked it chnages the inside component and renders the componnet accourding to it header and footer do not change nor loads at that time power of react that was all for today.
+
+date:2024/08/10
+today i made decent chess website in react where practial use of react router is done and got a lot of experience on using componnets fron flowbyte premade componnets olayed a game also but was overall a great day learning while making project is best i can ask/dream and i fixed the issue in my chess app where user game data is fetched but it was from most latest game to oldest game to latest  game thus i revrsed the arry leading to printing oldest game first and then recent games at last.
