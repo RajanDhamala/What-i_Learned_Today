@@ -66,5 +66,9 @@ today i learned more deeply about react router and created small site with heade
 date:2024/08/10
 today i made decent chess website in react where practial use of react router is done and got a lot of experience on using componnets fron flowbyte premade componnets olayed a game also but was overall a great day learning while making project is best i can ask/dream and i fixed the issue in my chess app where user game data is fetched but it was from most latest game to oldest game to latest  game thus i revrsed the arry leading to printing oldest game first and then recent games at last.
 
-date:2024/08/10
+date:2024/08/11
 today i learned about making popups and i also learned few info about context api and addeed the feature of watching chess game directly by clicking on the respective div and u will be sent to the game page of chess.com  so u can watch games there.
+
+date:2024/08/12
+today i learned about context api and get user inputed value and then shared it with another conpomnent without props drilling still not full clarity hope everything will be clear fater shopping cart project of context api and today big issue related to git ,github arised i forcefully uploaded new folder in the previously managed repo and it overwrites the whole repo leadeing to loss of data here but thankfully i had backup at my local storage still a lot to learn keep grinding my boi..
+
