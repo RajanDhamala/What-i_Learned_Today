@@ -72,3 +72,6 @@ today i learned about making popups and i also learned few info about context ap
 date:2024/08/12
 today i learned about context api and get user inputed value and then shared it with another conpomnent without props drilling still not full clarity hope everything will be clear fater shopping cart project of context api and today big issue related to git ,github arised i forcefully uploaded new folder in the previously managed repo and it overwrites the whole repo leadeing to loss of data here but thankfully i had backup at my local storage still a lot to learn keep grinding my boi..
 
+date:2024/08/13
+today i tried to make the user dash board but desgin was not that great this working to polish my tailwind css skill revise about flex and grid properties which are very imp for making great and resposve website more to go
+
