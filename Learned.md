@@ -75,3 +75,6 @@ today i learned about context api and get user inputed value and then shared it 
 date:2024/08/13
 today i tried to make the user dash board but desgin was not that great this working to polish my tailwind css skill revise about flex and grid properties which are very imp for making great and resposve website more to go
 
+date:2024/08/13 
+today i leanend about changing the mode through the use of button and also learned a bit more about git tailwind css and leared more about the contextapi but still not sufficeint bad day from developer learner prespective but i played few online chess tournmanet it was fun 
+
