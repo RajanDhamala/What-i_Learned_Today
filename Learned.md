@@ -78,3 +78,5 @@ today i tried to make the user dash board but desgin was not that great this wor
 date:2024/08/13 
 today i leanend about changing the mode through the use of button and also learned a bit more about git tailwind css and leared more about the contextapi but still not sufficeint bad day from developer learner prespective but i played few online chess tournmanet it was fun 
 
+date:2024/08/14 today i learned mrre about the git github and the different react properties and hooks was unable to learn extraordinary concepts just basics belov average day as per developer pov
+
