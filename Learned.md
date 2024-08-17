@@ -75,8 +75,10 @@ today i learned about context api and get user inputed value and then shared it 
 date:2024/08/13
 today i tried to make the user dash board but desgin was not that great this working to polish my tailwind css skill revise about flex and grid properties which are very imp for making great and resposve website more to go
 
-date:2024/08/13 
+date:2024/08/14 
 today i leanend about changing the mode through the use of button and also learned a bit more about git tailwind css and leared more about the contextapi but still not sufficeint bad day from developer learner prespective but i played few online chess tournmanet it was fun 
 
-date:2024/08/14 today i learned mrre about the git github and the different react properties and hooks was unable to learn extraordinary concepts just basics belov average day as per developer pov and from tomorrow will be making notes in my notebook so its gonna be interesting and fun
+date:2024/08/15 today i learned more about the git github and the different react properties and hooks was unable to learn extraordinary concepts just basics belov average day as per developer pov and from tomorrow will be making notes in my notebook so its gonna be interesting and fun
+
+date:2024/08/17 today i learned about making the different design using react and tailwind css context api project will be finished today and i had busy schedule in previous days but was able to work in project and learning new think taking a lot of time practice is needed more..  
 
