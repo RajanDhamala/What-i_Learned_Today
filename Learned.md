@@ -86,3 +86,5 @@ date:2024/08/17 today i played games 9 hrs+ and was unable to learn new concept 
 
 date:2024/08/18 today i made changes in my react router project and added additional feature of fetching games as i did ealier in chess project and started making notes to get more clarity in different topics hope to learn at rapid speed feeling low nowdays dont know why..
 
+date:2024/08/19 today i learned about local storage in react and tomorrow will try to implement in my project and today result of my 1st semester came and it was decent will start learning rapidely from few days gooding have a good developer journey..
+
