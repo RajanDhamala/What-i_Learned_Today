@@ -82,9 +82,11 @@ date:2024/08/15 today i learned more about the git github and the different reac
 
 date:2024/08/17 today i learned about making the different design using react and tailwind css context api project will be finished today and i had busy schedule in previous days but was able to work in project and learning new think taking a lot of time practice is needed more..  
 
-date:2024/08/17 today i played games 9 hrs+ and was unable to learn new concept was quite fun but not from developer pov so doing latenight study to cover this gap more to learn and explore
+date:2024/08/18 today i played games 9 hrs+ and was unable to learn new concept was quite fun but not from developer pov so doing latenight study to cover this gap more to learn and explore
 
-date:2024/08/18 today i made changes in my react router project and added additional feature of fetching games as i did ealier in chess project and started making notes to get more clarity in different topics hope to learn at rapid speed feeling low nowdays dont know why..
+date:2024/08/19 today i made changes in my react router project and added additional feature of fetching games as i did ealier in chess project and started making notes to get more clarity in different topics hope to learn at rapid speed feeling low nowdays dont know why..
 
-date:2024/08/19 today i learned about local storage in react and tomorrow will try to implement in my project and today result of my 1st semester came and it was decent will start learning rapidely from few days gooding have a good developer journey..
+date:2024/08/20 today i learned about local storage in react and tomorrow will try to implement in my project and today result of my 1st semester came and it was decent will start learning rapidely from few days gooding have a good developer journey..
+
+date:2024/08/22 roday i made the user profile dashboard the design are below average but got to learn a lot about html css and js implementation and faced many challanges in makeing the responsive and handeling different functions but still managed more to learn and explore..
 
