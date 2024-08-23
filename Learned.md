@@ -90,3 +90,5 @@ date:2024/08/20 today i learned about local storage in react and tomorrow will t
 
 date:2024/08/22 roday i made the user profile dashboard the design are below average but got to learn a lot about html css and js implementation and faced many challanges in makeing the responsive and handeling different functions but still managed more to learn and explore..
 
+date:2024/08/23 today i tried to polish my css skill and be the decent frontrnt developer and designer and still a lot to learn and more to explore in this world will fully commit from day after today in my developer journey
+
