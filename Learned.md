@@ -93,3 +93,6 @@ date:2024/08/22 roday i made the user profile dashboard the design are below ave
 date:2024/08/23 today i tried to polish my css skill and be the decent frontrnt developer and designer and still a lot to learn and more to explore in this world will fully commit from day after today in my developer journey
 
 date:2024/08/24 today i learned and redux toolkit and made todo app using it still didnt get full claratity about making stores and configurations but will surely understand swoly and steadlt soon ..
+
+date:2024/08/25 today was java mcq exam and it went pretty good and i looked and practiced for different tailwind and css properties and tries to revice it for the proper use of these properties and tried to learn more about redux toolkit
+
