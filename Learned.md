@@ -96,3 +96,4 @@ date:2024/08/24 today i learned and redux toolkit and made todo app using it sti
 
 date:2024/08/25 today was java mcq exam and it went pretty good and i looked and practiced for different tailwind and css properties and tries to revice it for the proper use of these properties and tried to learn more about redux toolkit
 
+date:2024/08/26 today was math mcq exam and it went pretty decent and today I was unable to learn new concepts
