@@ -99,3 +99,5 @@ date:2024/08/25 today was java mcq exam and it went pretty good and i looked and
 date:2024/08/26 today was math mcq exam and it went pretty decent and today I was unable to learn new concepts
 
 date:2024/08/27 today was operating system mcq exam and it went average and today I went outside and did outdoor activities and soon will start my development journey from tomorrow 
+
+date:2024/08/28 today was IFA mcq exam and it also went pretty decent and today i tried to make tik tak toe in react and i made simple ui and two players can play and check the winner logic tomorrow will improve the ui and optimize thr user interface and make site responsive and will include human vs ai if needed
