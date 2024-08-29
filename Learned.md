@@ -101,3 +101,5 @@ date:2024/08/26 today was math mcq exam and it went pretty decent and today I wa
 date:2024/08/27 today was operating system mcq exam and it went average and today I went outside and did outdoor activities and soon will start my development journey from tomorrow 
 
 date:2024/08/28 today was IFA mcq exam and it also went pretty decent and today i tried to make tik tak toe in react and i made simple ui and two players can play and check the winner logic tomorrow will improve the ui and optimize thr user interface and make site responsive and will include human vs ai if needed
+
+date:20024/8/29 today was last mcq exam of Advanced Computer Network and it went pretty good and today is added the sound and celebration gif and mode slection or toggle button for playervsplayer and playervsai and today i leanred how to play audio through javascript it was very good learning experience and hope to learn more and new interesting things. 
