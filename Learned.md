@@ -103,3 +103,6 @@ date:2024/08/27 today was operating system mcq exam and it went average and toda
 date:2024/08/28 today was IFA mcq exam and it also went pretty decent and today i tried to make tik tak toe in react and i made simple ui and two players can play and check the winner logic tomorrow will improve the ui and optimize thr user interface and make site responsive and will include human vs ai if needed
 
 date:20024/8/29 today was last mcq exam of Advanced Computer Network and it went pretty good and today is added the sound and celebration gif and mode slection or toggle button for playervsplayer and playervsai and today i leanred how to play audio through javascript it was very good learning experience and hope to learn more and new interesting things. 
+
+date:2049/8/30 today i deployed my simple tik tak toe game in vercel and take review from people and will implement the changes recomended soon
+and today i strated my new project of chess clock which cna be used through browser and custom increment and time can also be set i will complete thiis project soon and will also deploy it on vercel today i learned about many things what a great learning experience thank you god.
