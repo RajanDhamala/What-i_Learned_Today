@@ -107,4 +107,6 @@ date:20024/8/29 today was last mcq exam of Advanced Computer Network and it went
 date:2049/8/30 today i deployed my simple tik tak toe game in vercel and take review from people and will implement the changes recomended soon
 and today i strated my new project of chess clock which cna be used through browser and custom increment and time can also be set i will complete thiis project soon and will also deploy it on vercel today i learned about many things what a great learning experience thank you god.
 
-date:2024/8/31 today i leaned about the more clear and better approch for writing logics and codes found some bugs and issue in my on goining project and tried to improve and today i learned little java also ..
+date:2024/8/31 today i learned about the more clear and better approch for writing logics and codes found some bugs and issue in my on goining project and tried to improve and today i learned little java also ..
+
+date:2024/9/1 today i deployed my chess clock  project still few updates and features addition is not completed but soon i will complete these and i faced a lot of challanges in achieveing this and can through different ideas for solving problems which i hope will be very fruitful for me in upcomming years keep learning keep  grinding and god bless u all.
