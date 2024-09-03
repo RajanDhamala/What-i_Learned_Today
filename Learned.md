@@ -110,3 +110,5 @@ and today i strated my new project of chess clock which cna be used through brow
 date:2024/8/31 today i learned about the more clear and better approch for writing logics and codes found some bugs and issue in my on goining project and tried to improve and today i learned little java also ..
 
 date:2024/9/1 today i deployed my chess clock  project still few updates and features addition is not completed but soon i will complete these and i faced a lot of challanges in achieveing this and can through different ideas for solving problems which i hope will be very fruitful for me in upcomming years keep learning keep  grinding and god bless u all.
+
+date:2024/9/2 today i made a a lot of changes in my deployed chess clock added the option of setting the time of the clock individually leading to the great learning experience and new exploration in web development world faced a lot of challanges but slowly and acka lo made readme for github profile
