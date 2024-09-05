@@ -116,3 +116,5 @@ date:2024/9/2 today i made a a lot of changes in my deployed chess clock added t
 date:2024/9/3 today i tried to make the clone of the instagram login and soon will complete it and learned the different concepts and ideas about the js and react aslo and planning to make more 3 4 projects focused on designning and then will complete the react and mode to next js soon have a good day.
 
 date:2024/9/4 today i learned more about local storage did a small mini usage of it and also tried to complete the clone of insta login page and it went pretty average and today i wenat about 5 6 hrs playing chess today was fun and i reched 1600 in lichess in rapid and 1245 in chess.com lets go boii.
+
+date:2024/9/5 today i again revised about the context and used it again to transfer state from one component to another without props drilling thanks to the context api and today day was below avg as of developer prespective thank u 
