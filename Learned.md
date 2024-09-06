@@ -117,4 +117,6 @@ date:2024/9/3 today i tried to make the clone of the instagram login and soon wi
 
 date:2024/9/4 today i learned more about local storage did a small mini usage of it and also tried to complete the clone of insta login page and it went pretty average and today i wenat about 5 6 hrs playing chess today was fun and i reched 1600 in lichess in rapid and 1245 in chess.com lets go boii.
 
-date:2024/9/5 today i again revised about the context and used it again to transfer state from one component to another without props drilling thanks to the context api and today day was below avg as of developer prespective thank u 
+date:2024/9/5 today i again revised about the context and used it again to transfer state from one component to another without props drilling thanks to the context api and today day was below avg as of developer prespective thank u..
+
+date:2024/9/6 today i fixed the issues in my context api code some error were bring throwed and i managed it and i also added th eoption to chnage the heme on click of the button in this project tomorrow i will start making ecommerce site which wil help me to improve my react skills.
