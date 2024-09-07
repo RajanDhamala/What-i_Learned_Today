@@ -46,3 +46,5 @@ Today, I experimented with calling the chess.com API to fetch user information s
 
 📅 2024/08/03
 Today, I learned about pulling and pushing code into new and pre-existing repositories, gradually learning commands and techniques of Git. Also learned about techniques for making a website responsive. Faced some issues in my weather app and tried to resolve them. The problem of the day: State values updated using useState are not updated instantly, leading to problems while executing JavaScript. Searching for ways to handle it.
+
+today i learned about what is appwrite and lot about .env and gitinore file and why it is used and how is api key and secret varibles are handelned and how they are acces in the create react app and in vite and also i made the design in picsart and updated in my isntagram login page clone project well it was pretty below avg day as of developer prespective
