@@ -119,4 +119,8 @@ date:2024/9/4 today i learned more about local storage did a small mini usage of
 
 date:2024/9/5 today i again revised about the context and used it again to transfer state from one component to another without props drilling thanks to the context api and today day was below avg as of developer prespective thank u..
 
-date:2024/9/6 today i fixed the issues in my context api code some error were bring throwed and i managed it and i also added th eoption to chnage the heme on click of the button in this project tomorrow i will start making ecommerce site which wil help me to improve my react skills.
+date:2024/9/6 today i fixed the issues in my context api code some error were bring throwed and i managed it and i also added th excption to chanage the theme on click of the button in this project tomorrow i will start making ecommerce site which wil help me to improve my react skills.
+
+date:2024/9/7 today i made the insta double phone design using the picsart/canvas and ad dit in the ui and it was trouble some to edit the photos to get the same dimesions angle and picture but it is somehwere might be close to orginal one.
+
+date:2024/9/8 today i just git pushed the chnages in my isnta project else did no improvement  things as per the developer pov thank u good night
