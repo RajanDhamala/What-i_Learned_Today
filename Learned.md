@@ -124,3 +124,5 @@ date:2024/9/6 today i fixed the issues in my context api code some error were br
 date:2024/9/7 today i made the insta double phone design using the picsart/canvas and ad dit in the ui and it was trouble some to edit the photos to get the same dimesions angle and picture but it is somehwere might be close to orginal one.
 
 date:2024/9/8 today i just git pushed the chnages in my isnta project else did no improvement  things as per the developer pov thank u good night
+
+date:2024/9/9 today i mad ethe user profile and suggestion components and reused it multiple times and i am trying to clone the ui of the instagram from scracth it will be great learning experince and journey hope to learn  a alot from thes projects god bless u all.
