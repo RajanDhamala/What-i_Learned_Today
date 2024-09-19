@@ -130,3 +130,5 @@ date:2024/9/9 today i mad ethe user profile and suggestion components and reused
 date:2024/9/11 today i made the image slider using react which will be used to slide the recomended user profiles in my insta clone project ..
 
 date:2024/9/13 from tommorrow my pre board exam of 2nd semester will begin thus i will not be able to focus on development journey for about 2 weeks .
+
+date:2024/9/19 my pre board exam is compled thus got about 2 3 days break for woring on development journmaney made some ui desifn of the insta clone not good pretty avg due to scarcity of time .
