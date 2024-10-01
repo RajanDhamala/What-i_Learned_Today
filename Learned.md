@@ -133,4 +133,6 @@ date:2024/9/13 from tommorrow my pre board exam of 2nd semester will begin thus 
 
 date:2024/9/19 my pre board exam is compled thus got about 2 3 days break for woring on development journmaney made some ui desifn of the insta clone not good pretty avg due to scarcity of time .
 
-date:2024/9/20 today i same updates in my insta clone project made some chnages and add ui designs also not good design and responsive but will be soon afte rmy 2nd sem final exma
+date:2024/9/20 today i same updates in my insta clone project made some chnages and add ui designs also not good design and responsive but will be soon afte rmy 2nd sem final exam
+
+date:2024/10/01 exam finished of the 2nd semester planning to learn backend and next js after jew projects in react..
