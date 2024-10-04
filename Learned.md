@@ -138,3 +138,7 @@ date:2024/9/20 today i same updates in my insta clone project made some chnages 
 date:2024/10/01 exam finished of the 2nd semester planning to learn backend and next js after jew projects in react..
 
 date:2024/10/02 Today, I made significant progress in Node.js, working with Mongoose and integrating React with a backend API. This README outlines the concepts and practices I learned, including backend API development with Node.js and making API calls from React.
+
+date:2024/10/03 today i made rotes and used multers and other different services in node js
+
+
