@@ -143,7 +143,8 @@ date:2024/10/03 today i made rotes and used multers and other different services
 
 date:2024/10/04 today i used postman for checking how the response is of my project and found many probelms still not ressolved tring to ressove mant thigs to learn..
 
+date:2024/10/05 today i fixed bugs in my backend project and was able to start server and user can send file and the file will be stored temporarily in my device path and then will be uploaded to cloudary and at mongodb atlas data is stored.
 
-date:2024/10/05 today i fixed bugs in my backend project and was able to start server and user can send file and the file will be stored temporarily in my device path and then will be uploaded to cloudary and at mongodb atlas data is stored
+date:2024/10/06 today i made design for user profile dahboard not deign tried to code the design and many task remaing hope to comple these task tomorrow and start backend journey again..
 
 
