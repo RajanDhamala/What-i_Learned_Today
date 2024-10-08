@@ -147,4 +147,6 @@ date:2024/10/05 today i fixed bugs in my backend project and was able to start s
 
 date:2024/10/06 today i made design for user profile dahboard not deign tried to code the design and many task remaing hope to comple these task tomorrow and start backend journey again..
 
+ddate:2024/1-/05 today i played a lot of chess games and wasted time in reels not benificial for development journey..
+
 
