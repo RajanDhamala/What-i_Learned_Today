@@ -151,3 +151,5 @@ ddate:2024/10/07 today i played a lot of chess games and wasted time in reels no
 
 date:2024/10/13 today I made few changes in my learning style and learned more api error class api response class which we made custom 
 
+date:2024/10/29 curently im learning backend i made twitter tweet user login signin and upload video/photos and access it and uses cookies for authencation and has good grasp over controller and currently learning about aggregation pipeline in mongodb hope to expore more
+
