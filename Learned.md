@@ -153,3 +153,5 @@ date:2024/10/13 today I made few changes in my learning style and learned more a
 
 date:2024/10/29 curently im learning backend i made twitter tweet user login signin and upload video/photos and access it and uses cookies for authencation and has good grasp over controller and currently learning about aggregation pipeline in mongodb hope to expore more
 
+date:2024/10/30 learning the aggregration pipeline from the hitesh nagar and documentation learned about project group sort add count average limit operators hope to learn more soon and did practical also and solved few problems related to it..
+
