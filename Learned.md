@@ -155,3 +155,5 @@ date:2024/10/29 curently im learning backend i made twitter tweet user login sig
 
 date:2024/10/30 learning the aggregration pipeline from the hitesh nagar and documentation learned about project group sort add count average limit operators hope to learn more soon and did practical also and solved few problems related to it..
 
+
+date:2024/10/31 break from development journey
