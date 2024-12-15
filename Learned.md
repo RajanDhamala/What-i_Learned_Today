@@ -159,3 +159,5 @@ date:2024/10/30 learning the aggregration pipeline from the hitesh nagar and doc
 date:2024/10/31 break from development journey
 
 date:2024/11/26 on a backend journey rn confident in setting routes writing controllers otp validation and more currency learning Shocket.io for chat app in express
+
+date:2024/12/15 currently working on the chat app learned containerization docker and about other also keeping the pace up
