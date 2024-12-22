@@ -161,3 +161,5 @@ date:2024/10/31 break from development journey
 date:2024/11/26 on a backend journey rn confident in setting routes writing controllers otp validation and more currency learning Shocket.io for chat app in express
 
 date:2024/12/15 currently working on the chat app learned containerization docker and about other also keeping the pace up
+
+date:2024/12/22 curreny still working on the chat app backend operations and requirement in this project is almost all completed learning to use best approch for handeling the things which i will only learn by working on these full stack project a great learning experince need to develop my designing skill also so i can be decent at designing ui also
