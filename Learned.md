@@ -163,3 +163,5 @@ date:2024/11/26 on a backend journey rn confident in setting routes writing cont
 date:2024/12/15 currently working on the chat app learned containerization docker and about other also keeping the pace up
 
 date:2024/12/22 curreny still working on the chat app backend operations and requirement in this project is almost all completed learning to use best approch for handeling the things which i will only learn by working on these full stack project a great learning experince need to develop my designing skill also so i can be decent at designing ui also
+
+date:2024/12/28 learing the figma for designing the becent user interface and also had experince of git branches and git merge conflit having preety good learning experience as well as enjoying chess as usual. 
