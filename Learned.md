@@ -167,3 +167,8 @@ date:2024/12/22 curreny still working on the chat app backend operations and req
 date:2024/12/28 learing the figma for designing the becent user interface and also had experince of git branches and git merge conflit having preety good learning experience as well as enjoying chess as usual.
 
 date:2024/12/31 today I fixed the otp verification bug in the controller and learned about using shade and other ai tools for ui making fast and learned about hackerthon utilities which might help and also explored about spline and three js library and last day of 2024 goodnight soon we all will ve waking after whole one freaking year haha ...
+
+
+
+date:2025/01/01 new year ni aai sakexa lya 
+today i updated the ui of my hcat app and used the usenaviagator and link for routing user upon buttons and conditons to route user from one component to another and also learned a lot about fullstack development and more to come .lets hope toh have healthy and brilliant time this year.
