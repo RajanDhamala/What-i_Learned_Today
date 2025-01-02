@@ -172,3 +172,6 @@ date:2024/12/31 today I fixed the otp verification bug in the controller and lea
 
 date:2025/01/01 new year ni aai sakexa lya 
 today i updated the ui of my hcat app and used the usenaviagator and link for routing user upon buttons and conditons to route user from one component to another and also learned a lot about fullstack development and more to come .lets hope toh have healthy and brilliant time this year.
+
+
+date:2025/01/02 today learned about the many things still working on improving the ui of my chat app facing issue witht he idname being same while pooping idk seems react issue it is not same key for many component idk seems a complicated issue tring to fic and hope to fix it soon and making the new project for webtech subject also will tlak about it later 
