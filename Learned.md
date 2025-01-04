@@ -177,3 +177,5 @@ today i updated the ui of my hcat app and used the usenaviagator and link for ro
 date:2025/01/02 today learned about the many things still working on improving the ui of my chat app facing issue witht he idname being same while pooping idk seems react issue it is not same key for many component idk seems a complicated issue tring to fic and hope to fix it soon and making the new project for webtech subject also will tlak about it later 
 
 date:2024/01/03 today I played a lot of chess games and was unable to focus on the development journey was fun but I will get back on he development track soon
+
+date:2024/01/04 also didn't learned a lot about development even today learned few things about clerk and planning to implement it in next project just changes in ui also done
