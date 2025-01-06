@@ -178,4 +178,6 @@ date:2025/01/02 today learned about the many things still working on improving t
 
 date:2024/01/03 today I played a lot of chess games and was unable to focus on the development journey was fun but I will get back on he development track soon
 
-date:2024/01/04 also didn't learned a lot about development even today learned few things about clerk and planning to implement it in next project just changes in ui also done
+date:2024/01/04 today also didn't learned a lot about development even today learned few things about clerk and planning to implement it in next project just changes in ui also done
+
+date:2024/01/06 made the admin pannel registration and login routes and made middleware for handling connection has setup the admin.js but wanted to code from scratch thus trying to do it
