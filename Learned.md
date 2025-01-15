@@ -181,3 +181,6 @@ date:2024/01/03 today I played a lot of chess games and was unable to focus on t
 date:2024/01/04 today also didn't learned a lot about development even today learned few things about clerk and planning to implement it in next project just changes in ui also done
 
 date:2024/01/06 made the admin pannel registration and login routes and made middleware for handling connection has setup the admin.js but wanted to code from scratch thus trying to do it
+
+
+date:2025/01/15 breaked the chat app into components for exploring the beauty of react and used context api for handling states between componnnets great learning experience 
